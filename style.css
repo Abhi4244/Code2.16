@@ -1,0 +1,6 @@
+iframe{
+	border: groove 3px blue;
+	padding: 50px;
+	margin: 30px;
+	background: linear-gradient(55deg,yellow,orange,red,cyan)
+}
